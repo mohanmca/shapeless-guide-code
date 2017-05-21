@@ -62,3 +62,5 @@ lazy val root = project.in(file("."))
     migrations,
     mapping
   )
+
+
